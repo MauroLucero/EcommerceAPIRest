@@ -1,4 +1,4 @@
-package com.egg.ecommerce.service;
+package com.egg.ecommerce.service.security;
 
 
 import com.egg.ecommerce.entity.User;

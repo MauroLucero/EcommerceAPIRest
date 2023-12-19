@@ -3,7 +3,7 @@ package com.egg.ecommerce.controller;
 import com.egg.ecommerce.DTOs.AuthResponse;
 import com.egg.ecommerce.DTOs.LoginRequest;
 import com.egg.ecommerce.DTOs.RegisterRequest;
-import com.egg.ecommerce.service.AuthService;
+import com.egg.ecommerce.service.security.AuthService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;

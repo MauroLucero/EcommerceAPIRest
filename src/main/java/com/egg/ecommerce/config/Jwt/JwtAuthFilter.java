@@ -1,7 +1,7 @@
 package com.egg.ecommerce.config.Jwt;
 
 
-import com.egg.ecommerce.service.JwtService;
+import com.egg.ecommerce.service.security.JwtService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
